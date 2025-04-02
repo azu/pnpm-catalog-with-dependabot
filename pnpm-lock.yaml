@@ -18,6 +18,12 @@ importers:
         specifier: 'catalog:'
         version: 4.0.0
 
+  packages/a:
+    dependencies:
+      lodash:
+        specifier: 'catalog:'
+        version: 4.0.0
+
 packages:
 
   lodash@4.0.0:
